@@ -1,8 +1,10 @@
 Part 1: Hello, this is a message to myself.
 
 Task 1: 
-// Under this line, describe what the command 'git fetch' does
+Git fetch will fetch new information from a remote server so that any new changes can be recognized 
+by the local machine.
 
 Task 2:
-// Under this line, describe the difference between Git and GitHub
+While Git is a local repository that is ran and maintained on a local system, GitHub is a cloud based repository
+hosting service that connects many machines.
 
